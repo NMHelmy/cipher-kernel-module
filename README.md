@@ -2,7 +2,7 @@
 
 A Linux kernel module that implements encrypted character devices for educational purposes. This module demonstrates kernel programming concepts including character device drivers, the `/proc` filesystem, encryption, and kernel synchronization primitives.
 
-## ⚠️ Security Warning
+## Security Warning
 
 **This module uses RC4 encryption, which is cryptographically broken and insecure. This project is for educational purposes only and should NEVER be used in production environments or for protecting sensitive data.**
 
